@@ -1,6 +1,6 @@
-#define VERDE      12
-#define AMARILLO   11
-#define ROJO       10
+#define VERDE      2
+#define AMARILLO   3
+#define ROJO       4
 
 
 
